@@ -7,15 +7,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Entrega desafío: Crear la app utilizando el CLI
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="https://www.google.com/"
+          rel="noopener noreferrer" target="_blank"
         >
-          Learn React
+          Tienda
         </a>
       </header>
     </div>
